@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #24292e; 
+    color: #ffffff; 
+}
+
+.success-message {
+    color: #27ae60;
+    font-size: 24px;
+    margin-top: 20px;
+}
+
+.dev-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.dev-info {
+    margin: 20px;
+    background-color: #0f1013;;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.dev-info img {
+    width: 150px;
+    border-radius: 50%;
+}
+
+.dev-info h2 {
+    color: #ecf0f1;
+}
+
+.dev-info p {
+    color: #bdc3c7;
+}
+
+.dev-info a {
+    display: block;
+    color: #ecf0f1;
+    text-decoration: none;
+    margin-top: 10px;
+}
+
+.dev-info a:hover {
+    text-decoration: underline;
+}
