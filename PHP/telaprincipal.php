@@ -54,7 +54,7 @@
         <div class="dev-info">
             <img src="../IMG/download.webp" alt="Desenvolvedor 2">
             <h2>Kauã Alves</h2>
-            <p>Nº 17</p>
+            <p>Nº 19</p>
             <a href="https://github.com/KauaAlvs" target="_blank">Ver perfil</a>
         </div>
     </div>
