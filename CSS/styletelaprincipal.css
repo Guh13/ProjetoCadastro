@@ -44,7 +44,23 @@ body {
     text-decoration: none;
     margin-top: 10px;
 }
-
+/* Responsividade */
 .dev-info a:hover {
     text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+    body {
+        font-size: 16px; /* Exemplo de ajuste de tamanho de fonte */
+    }
+
+    .main.login-form {
+        margin-top: 20px; /* Exemplo de ajuste de margem superior */
+    }
+
+    form {
+        max-width: 100%; /* O formulário se expandirá para a largura máxima da tela */
+    }
+    
+    /* Adicione mais ajustes conforme necessário para tornar o layout responsivo */
 }
